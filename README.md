@@ -1,6 +1,6 @@
 # Biological Large Language Models: A Comparative Review of Protein and DNA Foundation Models for AI-Driven Scientific Discovery
 
-*[article](https://github.com/TimTam672/A-Comparative-Review-of-Bio-LLM/blob/5c3d017a307913bf1766bf4e2abe1079c70dd700/A%20Comparative%20Review%20of%20Protein%20and%20DNA%20Foundation%20Models%20for%20AI-Driven%20Scientific%20Discovery.pdf)*
+**[Article](https://github.com/TimTam672/A-Comparative-Review-of-Bio-LLM/blob/5c3d017a307913bf1766bf4e2abe1079c70dd700/A%20Comparative%20Review%20of%20Protein%20and%20DNA%20Foundation%20Models%20for%20AI-Driven%20Scientific%20Discovery.pdf)**
 
 ## Abstract
 
